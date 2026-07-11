@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PersonDeduplicator.Api.Controllers
+namespace PersonDeduplicator.Server.Controllers
 {
 	[ApiController]
 	[Route("[controller]")]

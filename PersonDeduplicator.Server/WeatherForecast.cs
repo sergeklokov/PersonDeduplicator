@@ -1,4 +1,4 @@
-namespace PersonDeduplicator.Api
+namespace PersonDeduplicator.Server
 {
 	public class WeatherForecast
 	{
